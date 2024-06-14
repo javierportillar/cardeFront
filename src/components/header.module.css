@@ -1,0 +1,21 @@
+.navContainer {
+  background-color: #d5dcd1;
+  display: flex;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 4em;
+  justify-content: space-around;
+  text-align: center;
+}
+
+input {
+
+  justify-content: center;
+  height: 2em;
+}
+
+p {
+  color: black;
+}
